@@ -1,0 +1,8 @@
+motor
+loguru
+pymongo
+discord.py
+dnspython
+EZPaginator
+py-trello
+discord-py-slash-command
